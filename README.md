@@ -30,7 +30,7 @@ sudo systemctl daemon-reload
 sudo systemctl restart docker
 ```
 
-## 4. Pull Images from DeepShield Registry
+## 3. Pull Images from DeepShield Registry
 ```bash
 docker pull 47.97.67.233:5000/deepshield/<image-name>:<tag>
 ```
